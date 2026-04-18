@@ -324,7 +324,7 @@ This project is submitted as a case study for Tredence Analytics AI Engineering 
 
 ## ✉️ Contact
 
-**Submitted by**: [Your Name]  
+**Submitted by**: PAMARTHI VENU GOPALA KRISHNA
 **Date**: 2025  
 **GitHub**: https://github.com/venugopalakrishna21/Tredence-case-study
 
