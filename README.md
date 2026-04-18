@@ -329,5 +329,4 @@ This project is submitted as a case study for Tredence Analytics AI Engineering 
 **GitHub**: https://github.com/venugopalakrishna21/Tredence-case-study
 
 ---
-
-**Note**: This implementation is for educational purposes. For production use, consider additional techniques like quantization, distillation, and hardware-specific optimization.
+ 
